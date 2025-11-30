@@ -1,0 +1,14 @@
+axes.titlesize : 16
+axes.labelsize : 14
+lines.linewidth : 2
+lines.markersize : 8
+xtick.labelsize : 12
+ytick.labelsize : 12
+font.family : sans-serif
+font.sans-serif : Arial, Helvetica, DejaVu Sans
+figure.figsize : 8, 6
+figure.dpi : 150
+legend.fontsize : 12
+axes.grid : True
+grid.alpha : 0.3
+axes.prop_cycle : cycler('color', ['00429d', '96ffea', 'ff005e', '93003a', 'ff7c00'])

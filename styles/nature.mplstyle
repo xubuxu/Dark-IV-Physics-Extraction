@@ -1,0 +1,16 @@
+axes.titlesize : 10
+axes.labelsize : 10
+lines.linewidth : 1
+lines.markersize : 4
+xtick.labelsize : 8
+ytick.labelsize : 8
+font.family : serif
+font.serif : Times New Roman, DejaVu Serif
+figure.figsize : 3.5, 2.625
+figure.dpi : 300
+legend.fontsize : 8
+axes.grid : False
+xtick.direction : in
+ytick.direction : in
+xtick.top : True
+ytick.right : True
